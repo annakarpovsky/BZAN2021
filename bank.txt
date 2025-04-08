@@ -1,0 +1,5 @@
+
+100335,John Smith,29822.56,Withdrawal 2987.8**Withdrawal 4187.8**Deposit 1693.12**Deposit 2987.8**Withdrawal 4702.17,Checking
+100417,Jane Doe,23000.00,Withdrawal 1000.0**Deposit 800.0**Withdrawal 500.0**Interest 227.45,Checking
+100097,Bob Brown,26000.00,Withdrawal 1000.0**Withdrawal 386.75,Checking
+100097,Bob Brown,26000.00,Withdrawal 1000.0**Withdrawal 386.75,Checking
