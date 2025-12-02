@@ -1,8 +1,0 @@
-memberid, name, starting balance, activities, membership_type
-M102,Alex Green,200.0,Class 25.0**Credit 10.0,Premium
-M205,Sasha Lee,120.5,Charge 20.0**Class 15.0,Premium
-M333,Ryan Park,80.0,Class 30.0,Basic
-M102,Alex Green,50.0,Charge 40.0**Credit 5.0,Premium
-M777,Lena Ortiz,300.0,,Family
-M205,Sasha Lee,40.0,Credit 7.0,Premium
-M999,Chris Doe,150.0,Class 50.0**Charge 30.0,Basic
