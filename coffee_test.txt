@@ -1,0 +1,12 @@
+C101 , Anna ,  DRINK$5.00 ## FOOD$10.00 , Gold
+IGNORE THIS LINE
+C202,Bob,drink$3.50##Refund$2.00   ,Regular
+SKIP THIS LINE
+C101, Anna , Food$5.00  ,gOlD
+NOT NEEDED
+C303 ,Chris,   , VIP
+IGNORE AGAIN
+C404 , Dana , refund$7.50 ## drink$2.50 , GOLD
+JUNK LINE
+C505 , Evan , FOOD$8.00 ## DRINK$3.00 ## refund$1.00 , gold
+TRASH
