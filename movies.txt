@@ -1,0 +1,11 @@
+M101 , Sarah , TICKET$14.50 ## SNACK$8.00 , Premium
+
+M202,James,snack$6.50##REFUND$3.00 ,Standard
+
+M101 , Sarah , Snack$4.50 , PREMIUM
+
+M303, Lisa, , Standard
+
+M404 , David , REFUND$5.00 ## ticket$12.00 , Premium
+
+M505, Emily, SNACK$7.00##TICKET$15.00##refund$2.50,Standard
